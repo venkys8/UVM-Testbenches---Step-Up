@@ -6,3 +6,6 @@
 
 
 -> A config class to configure as ACTIVE or PASSIVE agent
+
+
+eda link -> https://www.edaplayground.com/x/mRRK
