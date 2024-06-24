@@ -1,3 +1,5 @@
+EDA Link - https://www.edaplayground.com/x/SAa8
+
 These are list of sequences used in the environment [ 
 write_data.sv
 
