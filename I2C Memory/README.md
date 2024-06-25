@@ -19,3 +19,4 @@ We are controlling WR,ADDR,DIN,DOUT of I2C master controller
    detect_start -> store_addr -> send_ack -> send_data -> detect_stop
 
    
+EDA Link - https://www.edaplayground.com/x/KH9h
